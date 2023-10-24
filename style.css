@@ -1,0 +1,49 @@
+body {
+    font: 16px/18px arial,;
+    background-color: antiquewhite;
+    background-image: url(mountain.avif);
+
+}
+header {
+    text-align: center;
+    background-color: black;
+    color: bisque;
+    padding: 20px;
+}
+header h1 {
+    font-size: 36px;
+}
+image {
+    width: 10;
+    height: 10;
+}
+nav ul {
+    list-style: none;
+    background-color: black;
+    padding: 0;
+    text-align: center;
+}
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: bisque;
+}
+section {
+    padding: 20px;
+}
+h2 {
+    font-size: 25px;
+}
+ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+footer {
+    background-color: black;
+    color: bisque;
+    text-align: center;
+    padding: 20px;
+}
